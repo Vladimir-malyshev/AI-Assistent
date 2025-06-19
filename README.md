@@ -66,12 +66,12 @@ MVP Natural farming bot-Assistent
   Ассистент даёт подробный ответ с натуральными методами обработки и сроками применения.
 
 ---
-## Настройки проекта
+## Пример астройки проекта
 
 ![Экран1](https://github.com/Vladimir-malyshev/AI-Assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2019-06-2025%20160151.jpg?raw=true)
 
 
-![Экран2]([https://github.com/Vladimir-malyshev/AI-Assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2019-06-2025%20160218.jpg?raw=true)
+![Экран2](https://github.com/Vladimir-malyshev/AI-Assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2019-06-2025%20160218.jpg?raw=true)
 
 
 ![Экран3](https://github.com/Vladimir-malyshev/AI-Assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2019-06-2025%20160230.jpg?raw=true)
