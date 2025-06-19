@@ -4,6 +4,9 @@ MVP Natural farming bot-Assistent
 
 # ИИ-ассистент для ведения природного земледелия
 
+Роль: Владелец продукта
+Задача: самостоятельная быстрая разработка MVP без кода
+
 ## Описание проекта
 
 **ИИ-ассистент для природного земледелия** — это интеллектуальная система, предназначенная для помощи огородникам, фермерам и аграрным энтузиастам в планировании и ведении сельскохозяйственных работ на основе принципов природного (экологически чистого) земледелия. Ассистент способен осмысленно поддерживать диалог, отвечать на вопросы из обширной базы знаний, а также вести календарь работ с интеграцией в Google Календарь.
@@ -62,6 +65,11 @@ MVP Natural farming bot-Assistent
   Ассистент даёт подробный ответ с натуральными методами обработки и сроками применения.
 
 ---
+## Настройки проекта
+
+![Иллюстрация к проекту]([https://github.com/Vladimir-malyshev/AI-Assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2019-06-2025%20155958.jpg?raw=true](https://github.com/Vladimir-malyshev/AI-Assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2019-06-2025%20160151.jpg?raw=true))
+![Иллюстрация к проекту]([https://github.com/Vladimir-malyshev/AI-Assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2019-06-2025%20155958.jpg?raw=true](https://github.com/Vladimir-malyshev/AI-Assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2019-06-2025%20160218.jpg?raw=true))
+![Иллюстрация к проекту]([https://github.com/Vladimir-malyshev/AI-Assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2019-06-2025%20155958.jpg?raw=true](https://github.com/Vladimir-malyshev/AI-Assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2019-06-2025%20160230.jpg?raw=true))
 
 ## Перспективы развития
 
